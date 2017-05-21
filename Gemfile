@@ -18,6 +18,7 @@ gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
 gem 'bcrypt', '~> 3.1.7'
 gem 'fog', '1.23.0'
+gem 'net-ssh'
 # gem 'unicorn'
 # gem 'capistrano-rails', group: :development
 
